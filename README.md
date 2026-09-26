@@ -6,6 +6,8 @@ This project explores the relationship between sleep duration and mental health 
 
 The analysis focuses on reported hours of sleep and the number of poor mental health days reported during the past 30 days. I also explored whether the relationship between sleep and mental health differed across age groups.
 
+This analysis explores how reported sleep duration relates to poor mental health days across different age groups.
+
 The analysis found that respondents reporting 7–8 hours of sleep had fewer average poor mental health days than respondents reporting shorter or longer sleep durations.
 
 ## Dataset
